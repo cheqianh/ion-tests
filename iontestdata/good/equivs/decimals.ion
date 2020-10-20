@@ -1,6 +1,6 @@
 // Different exponents of zero magnitude
 (
-    123.777d0
+    123
     123.777d00
     123.777d000
 )
